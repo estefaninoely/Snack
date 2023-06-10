@@ -1,2 +1,2 @@
-# Snack
-Snack game 
+# Snake
+Snake game 
